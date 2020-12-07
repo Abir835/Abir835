@@ -18,3 +18,9 @@
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Abir835&card_width=550)](https://github.com/Abir835)
 
 <br />
+<p align="center">
+<a href="https://twitter.com/abir__hasan35" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/md-abir-hasan-033824194/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://www.instagram.com/abir_us/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dephraiim" height="20" width="20" /></a>
+<a href="https://www.facebook.com/abir.hasan.5851/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dephraiim" height="20" width="20" /></a>
+</p>
