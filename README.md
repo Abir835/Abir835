@@ -9,7 +9,7 @@
 - 🌱 I’m currently developing a software using Django  
 - 🔭 Studying in Computer Science and Engineering at International University of Business Agriculture and Technology.
 - 👯 I’m Learning Python, do programming with python and Works with different Machine Learning Algorithm
-- 🥅 2020 Goals: Specialization in Django.
+- 🥅 2021 Goals: Specialization in Django.
 
 <br />
 
