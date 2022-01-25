@@ -5,11 +5,11 @@
 
 ## I'm a Programmer, Developer, and Learner!!
 
-- 🌱 I’m currently learning  Python Django and Javascript React
-- 🌱 I’m currently developing a software using Django and Javascript 
+- 🌱 I’m currently learning  Python, Django, JavaScript and React
+- 🌱 I’m currently developing a software using Django and JavaScript 
 - 🔭 studied at Computer Science and Engineering at International University of Business Agriculture and Technology.
 - 👯 I’m Learning Python, do programming with python and Works with different Machine Learning Algorithm
-- 🥅 2022 Goals: Specialization in Django, Docker,JavaScripts And React.
+- 🥅 2022 Goals: Specialization in Django, Docker,JavaScript And React.
 
 <br />
 
