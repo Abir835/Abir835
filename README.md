@@ -1,15 +1,15 @@
 
 ### Hi there, This is Abir 👋
-#### Trainee Software Engineer at Divine IT Limited
+#### Associate Software Engineer at Brain Station 23
 ---
 
 ## I'm a Programmer, Developer, and Learner!!
 
-- 🌱 I’m currently learning  Python, Django, JavaScript and React
-- 🌱 I’m currently developing a software using Django and JavaScript 
+- 🌱 I’m Developing and learning  Python, Odoo, Django, JavaScript and React
+- 🌱 I’m currently developing a software using Odoo, Django and JavaScript 
 - 🔭 studied at Computer Science and Engineering at International University of Business Agriculture and Technology.
 - 👯 I’m Learning Python, do programming with python and Works with different Machine Learning Algorithm
-- 🥅 2022 Goals: Specialization in Django, Docker,JavaScript And React.
+- 🥅 2023 Goals: Specialization in Odoo, Django, Docker,JavaScript, React, Problem Solver.
 
 <br />
 
