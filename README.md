@@ -13,7 +13,7 @@
 
 <br />
 
-<img width="550" alt="Abir835's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Abir835&show_icons=true"/>
+<img width="550" alt="Abir835's Github Stats"  src="&show_icons=true"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abir835&show_icons=true&theme=radical)
