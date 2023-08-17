@@ -13,7 +13,7 @@
 
 <br />
 
-<img width="550" alt="Abir835's Github Stats"  src="&show_icons=true"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abir835&layout=pie)](https://github.com/Abir835/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abir835&show_icons=true&theme=radical)
