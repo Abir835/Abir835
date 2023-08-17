@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abir835&card_width=550&layout=compact)](https://github.com/Abir835/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abir835&card_width=550)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abir835&card_width=550&show_icons=true&theme=transparent)
 
 <br />
 <p align="center">
