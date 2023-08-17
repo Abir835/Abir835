@@ -15,7 +15,8 @@
 
 <img width="550" alt="Abir835's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Abir835&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=Abir835&card_width=550)](https://github.com/Abir835)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abir835&show_icons=true&theme=radical)
 
 <br />
 <p align="center">
