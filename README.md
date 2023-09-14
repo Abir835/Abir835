@@ -5,7 +5,7 @@
 
 ## I'm a Programmer, Developer, and Learner!!
 
-- 🌱 I’m Developing and learning  Python, Odoo, Django, JavaScript and React
+- 🌱 I’m Developing and learning  Python, java, Odoo, Django, JavaScript and React
 - 🌱 I’m currently developing a software using Odoo, Django and JavaScript 
 - 🔭 studied at Computer Science and Engineering at International University of Business Agriculture and Technology.
 - 👯 I’m Learning Python, do programming with python and Works with different Machine Learning Algorithm
