@@ -30,6 +30,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 #### ⚙️ DevOps, System Design & Monitoring
 ![GitHub CI/CD](https://img.shields.io/badge/-GitHub%20CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
