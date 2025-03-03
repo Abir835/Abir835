@@ -8,8 +8,8 @@
 ---
 
 ### 🌟 **About Me**
-- 💻 **Software Engineer ** at **technonext Software Ltd.** – Worked on **Foodi** (Food Delivery System.)  
-- 🔙 Previously at **Brainstation 23 PLC.** – Worked on **Odoo ERP, Khajna Project, and RideAlike**.  
+- 💻 **Software Engineer ** at **Technonext Software Ltd.** – Worked on **Foodi** (Food Delivery System.)  
+- 🔙 Previously at **Brainstation 23 PLC.** – Worked on **Odoo ERP, Khajna Project (Java), and RideAlike(Go)**.  
 - 🏗 Passionate about **backend development, system design, and high-performance applications**.  
 - 🎯 Solving problems on **LeetCode** and improving **system architecture & microservices knowledge**.  
 - 🛠 Enthusiastic about **CI/CD, cloud infrastructure, and DevOps automation**.  
