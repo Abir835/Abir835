@@ -1,3 +1,12 @@
+<h1 align="center">Hi, I'm Md. Abir Hasan 👋</h1>
+<h3 align="center">🚀 Software Engineer | Backend Specialist</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abir835&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
+
+---
+
 ### 🌟 **About Me**
 - 💻 **Software Engineer ** at **technonext Software Ltd.** – Worked on **Foodi** (Food Delivery System.)  
 - 🔙 Previously at **Brainstation 23 PLC.** – Worked on **Odoo ERP, Khajna Project, and RideAlike**.  
